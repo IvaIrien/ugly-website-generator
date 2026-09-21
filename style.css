@@ -1,1 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, serif;
+  background-color: #90D5FF;
+  color: black;
+}
 
+header {
+  background-color: gray;
+  color: white;
+  margin: 20px;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  padding: 20px;
+  justify-content: flex-end;
+}
